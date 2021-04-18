@@ -1,0 +1,1 @@
+this sentence has been written to this file using write() method
